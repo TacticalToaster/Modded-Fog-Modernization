@@ -48,19 +48,19 @@ resource.AddWorkshop(304625393) -- wunderwaffe
 resource.AddWorkshop(681689569) -- m2 flame
 resource.AddWorkshop(2131057232) -- arc base
 resource.AddWorkshop(2131058270) -- arc m9k extras
-resource.AddWorkshop() -- minibosses
-resource.AddWorkshop( ) -- metro 2033
-resource.AddWorkshop( ) -- the horrible post processing plugin
-resource.AddWorkshop( ) -- city ruins
-resource.AddWorkshop( ) -- arc fesiug
-resource.AddWorkshop( ) -- beta models hl2
-resource.AddWorkshop( ) -- raising bar
-resource.AddWorkshop( ) -- tyrant snpc
-resource.AddWorkshop( ) -- hs14 nova
-resource.AddWorkshop( ) -- l4d anims
-resource.AddWorkshop( ) -- xd reanims base
-resource.AddWorkshop( ) -- xd irons
-resource.AddWorkshop( ) -- xd radio chatter
+resource.AddWorkshop(1519864281) -- minibosses
+resource.AddWorkshop(378014558) -- metro 2033
+resource.AddWorkshop(155092389) -- the horrible post processing plugin THAT IS FROM 2013 LOL
+resource.AddWorkshop(151539013) -- city ruins
+resource.AddWorkshop(2131256922) -- arc fesiug
+resource.AddWorkshop(619791481) -- beta models hl2
+resource.AddWorkshop(155822157) -- raising bar
+resource.AddWorkshop(1205759235) -- tyrant snpc
+resource.AddWorkshop(369546736) -- hs14 nova
+resource.AddWorkshop(2411672781) -- l4d anims
+resource.AddWorkshop(2143558752) -- xd reanims base
+resource.AddWorkshop(2493356270) -- xd irons
+resource.AddWorkshop(2169293226) -- xd radio chatter
 
 
 
