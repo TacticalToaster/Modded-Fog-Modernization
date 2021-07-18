@@ -1,0 +1,22 @@
+"Market Fog"
+{
+	"base"		"base"
+	"title"		"Modded Fog"
+	"maps"		""
+	"menusystem"	"1"
+	"workshopid"	"15895"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"str_TestSetting"
+			"text"		"A Test Setting"
+			"help"		"A place holder setting"
+			"type"		"Numeric"
+			"default"	"20"
+		}
+
+	}
+
+}
